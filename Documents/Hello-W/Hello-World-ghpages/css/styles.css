@@ -1,0 +1,19 @@
+h2{
+    color: blue;
+    text-align: center;
+}
+p {font-family: sans-serif;
+    font-weight: bold;
+   }
+ul {
+    line-height: 30px;
+}
+img{
+ width: 800px;
+ height: 300px;
+ top: 0px;
+ right: 0px;
+}
+body {
+    background-image: url('filie:///home/duncan/my-first-website/images/code.jpg');
+}
